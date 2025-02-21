@@ -1,0 +1,6 @@
+resource_group_name   = "my-rg"
+location             = "East US"
+function_app_name    = "my-linux-funcapp"
+storage_account_name = "funcappstorage123"
+service_plan_name    = "my-linux-plan"
+sku_name             = "Y1"  
